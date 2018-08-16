@@ -1,0 +1,26 @@
+{
+  "name": "unit-test-playground",
+  "version": "1.0.0",
+  "description": "project to practice js unit test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DongCX/unit-test-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DongCX/unit-test-playground/issues"
+  },
+  "homepage": "https://github.com/DongCX/unit-test-playground#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
